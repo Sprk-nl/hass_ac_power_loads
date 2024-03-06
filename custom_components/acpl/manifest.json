@@ -1,0 +1,10 @@
+{
+    "domain": "acpl",
+    "name": "AC Power Loads",
+    "documentation": "https://github.com/todo",
+    "dependencies": [],
+    "codeowners": ["@sprk"],
+    "requirements": [],
+    "version": "0.1.0"
+  }
+  
